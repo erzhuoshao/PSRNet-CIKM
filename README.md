@@ -17,5 +17,6 @@ PyTorch implementation for **One-shot Learning for Population Mapping**
 
 # Usage
 > unzip data.zip
+
 > bash run.sh
 - The training is time consuming so you may run all run.sh's command parallelly except the last one to accelerate. The last Fine-tuning.py depends on the checkpoints of previous experiments.
