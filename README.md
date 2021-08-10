@@ -5,7 +5,7 @@ PyTorch implementation for **One-shot Learning for Population Mapping**
 - data.zip : population and POI distribution (500m x 500m) from CITY1 to CITY4.
 
 # Requirements
-- Provided in **environment.yaml**
+- All dependencies in **environment.yaml**
 
 # Project Structure
 - run.sh : bash to run all experiments
